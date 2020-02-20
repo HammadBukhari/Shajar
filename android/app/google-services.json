@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1040212743294",
+    "firebase_url": "https://shajar-a2150.firebaseio.com",
+    "project_id": "shajar-a2150",
+    "storage_bucket": "shajar-a2150.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1040212743294:android:320d9c75a28622bbd5f42f",
+        "android_client_info": {
+          "package_name": "com.example.shajar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1040212743294-k9bohlav4sjlnt8peuksfikihjt1ida3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shajar",
+            "certificate_hash": "0ffb93d0df80fad04d16ff2b58e74e1b57fa5451"
+          }
+        },
+        {
+          "client_id": "1040212743294-8lad0ajhoh8q1g9c7me5bva3hkh35cc4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCb_TKWwyBmvk7he9gL6nquW6tQSu4hx-0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1040212743294-8lad0ajhoh8q1g9c7me5bva3hkh35cc4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
